@@ -37,7 +37,21 @@ of dictionaries.
 -We used BeautifulSoup for this by making requests to the links we isolated on the first list and getting the contents. To make the new list of dictionary
 more organized, we included the "link" to each speech as a key.
 
--Line breaks were intentionally not removed from this segment to ensure 
+-Line breaks were intentionally not removed from this segment to ensure that we do not unintentionally lose some words or phrases. It is worth noting that
+the SONAs are unstructured texts and therefore differ in many characteristics such as length, use of sub-headers in some, inclusion of non-speech material 
+(i.e. "Applause," which indicates clapping during actual speech), etc.
+
+-We generate a df with the entire speeches contained in rows. Essentially, the speeches were organized as big chunks in rows, for efficiency purposes. 
+We recognize there may be a better way to do this and welcome suggestions. 
+
+-That two dfs (SONA tabled information and actual speeches) were then merged.
+
+## What can we do with this?
+
+One of the primary goal is to be able to conduct textual analysis from the database. This includes finding patterns through regex, filtering through pandas,
+and running other statistical methods in measuring unstructured texts easier.
+
+That said, 
 
 **This is a final project in partial fulfillment of requirements at Columbia Journalism School.
 All rights reserved.
