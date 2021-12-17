@@ -26,8 +26,8 @@ using Jupyter Notebook/Python.
 -Scraping was pretty straightforward, but involved two processes to generate two data frames. First, we used Selenium to get to the main page
 and loop through the table containing, among others, links to actual speeches.
 
--We generate a data frame out of the information on the table: which includes the president's name, the date, title of the speech
-the venue where the speech was delivered, link to the speech, and the session of Congress that it opened.
+-We generate a data frame out of the information on the table: which includes a separate columns for "administration" or president's name, the date, 
+title of the speech, the venue where the speech was delivered, link to the speech, and the session of Congress that it opened.
 
 -We looped through the information and then transformed them into lists of dictionaries and then a df. 
 
@@ -48,10 +48,29 @@ We recognize there may be a better way to do this and welcome suggestions.
 
 ## What can we do with this?
 
-One of the primary goal is to be able to conduct textual analysis from the database. This includes finding patterns through regex, filtering through pandas,
+One of the primary goals is to be able to conduct textual analysis from the database. This includes finding patterns through regex, filtering through pandas,
 and running other statistical methods in measuring unstructured texts easier.
 
-That said, 
+SONAs are good sources of government policy directions and may help text scholars in studies as well as journalists for research. 
+
+# Definition of terms
+
+SONA- State of the Nation Address
+
+Administration- literally the administration when the speech was delivered. But essentially, the president who delivered it.
+
+Title- A non-uniformed ID per speech. Some speech have specific titles like "The Nation on the Road to Prosperity," while some didn't
+and had the generic "State of the Nation" or "State of the Nation Address." Differences do not have material bearing.
+
+Date- Formatted "month, day year" that tells the exact date when the speech was delivered. Data type is an "object" but may be transposed into "datetime" as needed.
+
+Venue- From 1926 to 1972, speeches were delivered at the "Legislative Building" in Manila where the bicameral congress was originally based. The building
+had since been transformed into the National Museum.
+
+In succeeding years, SONAs were delivered instead in "Batasang Pambansa" in Quezon City. There were a couple of SONAs delivered elsewhere like Rizal Park.
+
+Session- indicates the session of Congress when the speech was delivered. 
+
 
 **This is a final project in partial fulfillment of requirements at Columbia Journalism School.
 All rights reserved.
