@@ -46,7 +46,7 @@ We recognize there may be a better way to do this and welcome suggestions.
 
 -That two dfs (SONA tabled information and actual speeches) were then merged.
 
-## What can we do with this?
+# What can we do with this?
 
 One of the primary goals is to be able to conduct textual analysis from the database. This includes finding patterns through regex, filtering through pandas,
 and running other statistical methods in measuring unstructured texts easier.
@@ -70,6 +70,9 @@ had since been transformed into the National Museum.
 In succeeding years, SONAs were delivered instead in "Batasang Pambansa" in Quezon City. There were a couple of SONAs delivered elsewhere like Rizal Park.
 
 Session- indicates the session of Congress when the speech was delivered. 
+
+
+
 
 
 **This is a final project in partial fulfillment of requirements at Columbia Journalism School.
