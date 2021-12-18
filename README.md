@@ -16,7 +16,7 @@ the SONA every fourth Monday of July to open a new session of Congress. The spee
 
 # What is the source of the data?
 
--Information in the database were scraped from https://www.officialgazette.gov.ph/past-sona-speeches/, which is hosted by the official portal of the
+-Information in the database were scraped from [here] (https://www.officialgazette.gov.ph/past-sona-speeches/) which is the official portal of the
 Philippine national government. The website is maintained and updated regularly. Information was scraped using BeautifulSoup and Selenium and coded
 using Jupyter Notebook/Python.
 
