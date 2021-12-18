@@ -2,7 +2,7 @@
 A database of Philippine presidents' State of the Nation Addresses, 1936-2020
 
 
-# In broad strokes, what is this about?
+# What is this about?
 
 Just as the subhead says this contains all State of the Nation Addresses of former and current presidents of the Philippines.
 The database covers speeches from the administration of Manuel Quezon to Rodrigo Duterte, with the exception of Jose Laurel, which the data source did not have.
