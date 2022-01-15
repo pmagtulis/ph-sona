@@ -69,4 +69,5 @@ SONAs delivered elsewhere like Rizal Park.
 
 
 **This is a final project in partial fulfillment of requirements at Columbia Journalism School.**
-All rights reserved.
+
+**Comments and suggestions are always welcome! All rights reserved.**
