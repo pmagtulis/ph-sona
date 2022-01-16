@@ -64,7 +64,9 @@ SONAs are good sources of government policy directions and may help text scholar
 |**Venue**|from 1926 to 1972, speeches were delivered at the "Legislative Building" in Manila where the bicameral congress was originally based. The building had since been transformed into the National Museum. In succeeding years, SONAs were delivered instead in "Batasang Pambansa" in Quezon City. There were a couple of SONAs delivered elsewhere like Rizal Park|
 |**Session**|indicates the session of Congress when the speech was delivered|
 
+# Contact
 
+Prinz Magtulis, [ppm2130@columbia.edu](mailto:ppm2130@columbia.edu)
 
 **This is a final project in partial fulfillment of requirements at Columbia Journalism School.**
 
