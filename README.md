@@ -58,11 +58,11 @@ SONAs are good sources of government policy directions and may help text scholar
 |column name|definition|
 |---|---|
 |**SONA**|State of the Nation Address|
-|**Administration**|the administration when the speech was delivered. But essentially, the president who delivered it|
-|**Title**|a non-uniform ID per speech. Some speech have specific titles like "The Nation on the Road to Prosperity," while some didn't and had the generic "State of the Nation" or "State of the Nation Address." Differences do not have material bearing|
-|**Date**|formatted "month, day year" that tells the exact date when the speech was delivered. Data type is an "object" but may be transposed into "datetime" as needed|
-|**Venue**|from 1926 to 1972, speeches were delivered at the "Legislative Building" in Manila where the bicameral congress was originally based. The building had since been transformed into the National Museum. In succeeding years, SONAs were delivered instead in "Batasang Pambansa" in Quezon City. There were a couple of SONAs delivered elsewhere like Rizal Park|
-|**Session**|indicates the session of Congress when the speech was delivered|
+|**administration**|the administration when the speech was delivered. But essentially, the president who delivered it|
+|**title**|a non-uniform ID per speech. Some speech have specific titles like "The Nation on the Road to Prosperity," while some didn't and had the generic "State of the Nation" or "State of the Nation Address." Differences do not have material bearing|
+|**date**|formatted "month, day year" that tells the exact date when the speech was delivered. Data type is an "object" but may be transposed into "datetime" as needed|
+|**venue**|from 1926 to 1972, speeches were delivered at the "Legislative Building" in Manila where the bicameral congress was originally based. The building had since been transformed into the National Museum. In succeeding years, SONAs were delivered instead in "Batasang Pambansa" in Quezon City. There were a couple of SONAs delivered elsewhere like Rizal Park|
+|**session**|indicates the session of Congress when the speech was delivered|
 
 # Contact
 
