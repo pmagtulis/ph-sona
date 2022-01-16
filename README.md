@@ -1,5 +1,5 @@
 # ph-sona
-A database of Philippine presidents' State of the Nation Addresses, 1936-2020
+A database of Philippine presidents' State of the Nation Addresses, 1936-2021
 
 
 # What is this about?
