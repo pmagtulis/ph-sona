@@ -1,6 +1,11 @@
 # ph-sona
 A database of Philippine presidents' State of the Nation Addresses, 1936-2021
 
+# Recent updates
+
+|**Date**|**Updates**|
+|---|---|
+|*Aug 20*|Updated with new SONA speech from Marcos Jr. and initial text analysis using regex and vectorizing using scikit-learn|
 
 # What is this about?
 
