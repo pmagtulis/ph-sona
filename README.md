@@ -5,6 +5,7 @@ A database of Philippine presidents' State of the Nation Addresses, 1936-2021
 
 |**Date**|**Updates**|
 |---|---|
+|*Aug 31*|Updated with directories for CSV files generated from notebooks and separate notebooks for presidents and classifiers.|
 |*Aug 20*|Updated with new SONA speech from Marcos Jr. and initial text analysis using regex and vectorizing using scikit-learn|
 
 # What is this about?
